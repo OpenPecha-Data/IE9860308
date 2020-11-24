@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W00KG0619
   title: བོད་ཀྱི་རྩོམ་ལུས་རྣམ་བཤད
-  volume: ''
+  volume:
+    8264f5458a154d2b96e279d898bffb0f:
+      image_group_id: I4CZ354566
+      title: Volume 1 of bod kyi rtsom lus rnam bshad
+      volume_number: 1
+      total_pages: 232
   author: ''
+ebook_metadata:
+  title: བོད་ཀྱི་རྩོམ་ལུས་རྣམ་བཤད
+  author: ''
+  sku: P000417
+  cover: cover.jpg
+  layers:
+  - pagination
